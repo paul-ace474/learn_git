@@ -13,3 +13,5 @@ https://github.com/paul-ace474/learn_git/blob/main/git%20commit%20third.txt%20im
 https://github.com/paul-ace474/learn_git/blob/main/Check%20out%20your%20commit%20after%20adding%20third.txt.JPG?raw=true
 
 https://github.com/paul-ace474/learn_git/blob/main/add%20fourth.txt%20img.JPG?raw=true
+
+https://github.com/paul-ace474/learn_git/blob/main/add%20fourth.txt%20to%20staging%20area%20img.JPG?raw=true

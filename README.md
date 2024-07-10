@@ -5,3 +5,5 @@ https://github.com/paul-ace474/learn_git/blob/main/change%20directory%20img.JPG?
 https://github.com/paul-ace474/learn_git/blob/main/created%20third.txt%20file%20img.JPG?raw=true
 
 https://github.com/paul-ace474/learn_git/blob/main/initialize%20git%20repository%20img.JPG?raw=true
+
+https://github.com/paul-ace474/learn_git/blob/main/add%20third.txt%20to%20staging%20area.JPG?raw=true

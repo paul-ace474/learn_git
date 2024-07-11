@@ -38,7 +38,7 @@
 ![Commit with the message removing third txt](https://github.com/paul-ace474/learn_git/blob/main/commit%20removing%20third.txt%20img.JPG?raw=true)
 
 ### step 14(Check out your commits using git log)
-![Check out your commits using git log]()
+![Check out your commits using git log](https://github.com/paul-ace474/learn_git/blob/main/checking%20out%20commit%20using%20git%20log.JPG?raw=true)
 
 ### step 15(Change your global settings to core.pager=cat)
 ![Change your global settings to core.pager=cat]()

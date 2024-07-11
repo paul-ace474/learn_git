@@ -26,7 +26,7 @@
 ![Add fourth txt to the staging area](https://github.com/paul-ace474/learn_git/blob/main/add%20fourth.txt%20img.JPG?raw=true)
 
 ### step 10(Commit with the message "adding fourth.txt)
-![Commit with the message "adding fourth txt]()
+![Commit with the message "adding fourth txt](https://github.com/paul-ace474/learn_git/blob/main/comit%20fourth.txt%20img.JPG?raw=true)
 
 ### step 11(Remove the third.txt file)
 ![Remove the third txt file]()

@@ -35,7 +35,7 @@
 ![Add this change to the staging area](https://github.com/paul-ace474/learn_git/blob/main/add%20third.txt%20to%20staging%20area.JPG?raw=true)
 
 ### step 13(Commit with the message "removing third.txt")
-![Commit with the message removing third txt]()
+![Commit with the message removing third txt](https://github.com/paul-ace474/learn_git/blob/main/commit%20removing%20third.txt%20img.JPG?raw=true)
 
 ### step 14(Check out your commits using git log)
 ![Check out your commits using git log]()

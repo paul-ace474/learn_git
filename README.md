@@ -21,3 +21,27 @@
 
 ### step 8(create another file called fourth.txt)
 ![create another file called fourth txt](https://github.com/paul-ace474/learn_git/blob/main/add%20fourth.txt%20img.JPG?raw=true)
+
+### step 9(Add fourth.txt to the staging area)
+![Add fourth txt to the staging area]()
+
+### step 10(Commit with the message "adding fourth.txt)
+![Commit with the message "adding fourth txt]()
+
+### step 11(Remove the third.txt file)
+![Remove the third txt file]()
+
+### step 12(Add this change to the staging area.)
+![Add this change to the staging area]()
+
+### step 13(Commit with the message "removing third.txt")
+![Commit with the message removing third txt]()
+
+### step 14(Check out your commits using git log)
+![Check out your commits using git log]()
+
+### step 15(Change your global settings to core.pager=cat)
+![Change your global settings to core.pager=cat]()
+
+### step 16(Write the appropriate command to list all the global configurations for git on your machine)
+![list all global command configurations]()

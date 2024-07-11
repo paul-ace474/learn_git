@@ -41,7 +41,7 @@
 ![Check out your commits using git log](https://github.com/paul-ace474/learn_git/blob/main/checking%20out%20commit%20using%20git%20log.JPG?raw=true)
 
 ### step 15(Change your global settings to core.pager=cat)
-![Change your global settings to core.pager=cat]()
+![Change your global settings to core.pager=cat](https://github.com/paul-ace474/learn_git/blob/main/core.pager%20img.JPG?raw=true)
 
 ### step 16(Write the appropriate command to list all the global configurations for git on your machine)
 ![list all global command configurations]()

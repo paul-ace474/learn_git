@@ -44,4 +44,4 @@
 ![Change your global settings to core.pager=cat](https://github.com/paul-ace474/learn_git/blob/main/core.pager%20img.JPG?raw=true)
 
 ### step 16(Write the appropriate command to list all the global configurations for git on your machine)
-![list all global command configurations]()
+![list all global command configurations](https://github.com/paul-ace474/learn_git/blob/main/list%20all%20the%20global%20configurations%20for%20git%20on%20your%20machine%20img.JPG?raw=true)

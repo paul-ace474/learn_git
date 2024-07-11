@@ -15,3 +15,6 @@
 
 ### step 6(commit with message adding third.txt)
 ![commit with message adding third txt](https://github.com/paul-ace474/learn_git/blob/main/git%20commit%20third.txt%20img.JPG?raw=true)
+
+### step 7(check out commit with git log)
+![check out commit with git log](https://github.com/paul-ace474/learn_git/blob/main/Check%20out%20your%20commit%20after%20adding%20third.txt.JPG?raw=true)

@@ -12,3 +12,6 @@
 
 ### step 5(add third.txt to staging area)
 ![add third txt to staging area](https://github.com/paul-ace474/learn_git/blob/main/add%20third.txt%20to%20staging%20area.JPG?raw=true)
+
+### step 6(commit with message adding third.txt)
+![commit with message adding third txt](https://github.com/paul-ace474/learn_git/blob/main/git%20commit%20third.txt%20img.JPG?raw=true)

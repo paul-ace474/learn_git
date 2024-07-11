@@ -18,3 +18,6 @@
 
 ### step 7(check out commit with git log)
 ![check out commit with git log](https://github.com/paul-ace474/learn_git/blob/main/Check%20out%20your%20commit%20after%20adding%20third.txt.JPG?raw=true)
+
+### step 8(create another file called fourth.txt)
+![create another file called fourth txt](https://github.com/paul-ace474/learn_git/blob/main/add%20fourth.txt%20img.JPG?raw=true)
